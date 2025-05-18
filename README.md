@@ -56,7 +56,7 @@ Edit the .env file with your specific configuration.
 • Start the development server:
 npm run dev
 
-• Navigate to http://localhost:3000 to access the dashboard.
+• Navigate to https://charming-cascaron-55049e.netlify.app/ to access the dashboard.
 
 💽 DATA SOURCES INTEGRATION 
 
