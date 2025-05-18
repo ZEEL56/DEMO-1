@@ -44,7 +44,7 @@ The main dashboard includes:
 ∆ Installation
 
 • Clone the repository:
-git clone https://github.com/yourusername/community-pulse.git
+git clone https://github.com/ZEEL56/DEMO-1.git
 cd community-pulse
 
 • Install dependencies:
